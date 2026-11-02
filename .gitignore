@@ -1,0 +1,38 @@
+# Build outputs
+target/
+backend/target/
+dist/
+frontend/dist/
+bin/
+out/
+*.class
+
+# Node dependencies
+node_modules/
+frontend/node_modules/
+.npm/
+
+# Environment files
+.env.local
+.env.*.local
+frontend/.env.local
+
+# IDE and Editor files
+.idea/
+*.iml
+*.iws
+*.ipr
+.settings/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

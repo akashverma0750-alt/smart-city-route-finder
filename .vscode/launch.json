@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Smart City Route Finder (CLI)",
+            "request": "launch",
+            "mainClass": "Main",
+            "console": "integratedTerminal"
+        }
+    ]
+}
+
